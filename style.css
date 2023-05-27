@@ -149,7 +149,6 @@ img{
     padding: 50px 100px;
     color: white;
 }
-
 .middle{
     display: flex;
     justify-content: space-between;
@@ -162,14 +161,12 @@ img{
 #call{
     font-weight: bold;
 }
-
 .action{
     display: flex;
     flex: 1;
     flex-direction: column;
     flex-shrink: 0;    
 }
-
 .author{
     font-weight: bold;
     align-self: flex-end;
@@ -178,12 +175,10 @@ img{
     border: solid;
     border-radius: 5px;
 }
-
 p{
     padding: 0;
     margin: 0;
 }
-
 .footer{
     align-items: center;
     justify-content: center;
